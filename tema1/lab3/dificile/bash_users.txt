@@ -1,2 +1,0 @@
-root:x:0:0::/root:/usr/bin/bash
-dootmario:x:1000:1000::/home/dootmario:/usr/bin/bash
