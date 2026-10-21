@@ -1,0 +1,14 @@
+0	/var/log/lastlog
+0	/var/log/README
+4.0K	/var/log/audit
+4.0K	/var/log/old
+4.0K	/var/log/private
+8.0K	/var/log/btmp
+72K	/var/log/Xorg.0.log.old
+76K	/var/log/Xorg.0.log
+148K	/var/log/cups
+248K	/var/log/wtmp
+272K	/var/log/haskell-register.log
+484K	/var/log/pacman.log
+620K	/var/log/archinstall
+516M	/var/log/journal
